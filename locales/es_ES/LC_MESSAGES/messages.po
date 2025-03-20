@@ -1,0 +1,11 @@
+msgid "Hello, World!"
+msgstr "¡Hola, Mundo!"
+
+msgid "This is a sample page with multilingual support."
+msgstr "Esta es una página de ejemplo con soporte multilingüe."
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Español"
+msgstr "Español"
