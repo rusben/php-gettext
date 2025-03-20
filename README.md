@@ -1,9 +1,5 @@
 # php-gettext
 
-Para buscar IDs de traducción en tu código PHP que utilicen la función `gettext` (o sus alias como `_()`), y generar archivos `.po` automáticamente, puedes seguir los siguientes pasos:
-
----
-
 Para instalar y configurar `gettext` en Ubuntu, sigue estos pasos. `gettext` es una herramienta esencial para trabajar con traducciones en proyectos de software, y está disponible en los repositorios oficiales de Ubuntu.
 
 ---
